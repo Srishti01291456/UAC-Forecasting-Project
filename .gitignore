@@ -1,0 +1,14 @@
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+*.log
+*.tmp
+*.cache
+
+# Duplicate local model folder
+/models/

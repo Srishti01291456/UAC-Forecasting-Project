@@ -1,0 +1,6 @@
+import joblib
+
+joblib.dump(
+    rf,
+    "../models/best_model.pkl"
+)
